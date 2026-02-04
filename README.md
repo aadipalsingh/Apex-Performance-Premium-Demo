@@ -51,7 +51,7 @@ Fitness startups
 ## 📬 Contact
 Want a custom website like this for your gym or business?
 - 📲 WhatsApp: +91 9458709609
-- 📧 Email: your@email.com
+- 📧 Email: aadipalsingh@email.com
 - 🌍 Portfolio: https://aadipalsingh.github.io
 ---
 ## ⚠️ License
